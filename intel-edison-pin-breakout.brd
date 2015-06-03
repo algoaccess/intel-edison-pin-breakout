@@ -201,6 +201,11 @@
 <text x="84.5540625" y="78.468221875" size="1.016" layer="21" font="vector" rot="R270">66</text>
 <text x="87.0940625" y="78.468221875" size="1.016" layer="21" font="vector" rot="R270">68</text>
 <text x="89.6340625" y="78.468221875" size="1.016" layer="21" font="vector" rot="R270">70</text>
+<text x="3.2740625" y="9.545321875" size="1.016" layer="21" rot="R270">GND</text>
+<text x="5.8140625" y="9.545321875" size="1.016" layer="21" rot="R270">GND</text>
+<text x="8.3540625" y="9.545321875" size="1.016" layer="21" rot="R270">GND</text>
+<text x="10.8940625" y="9.545321875" size="1.016" layer="21" rot="R270">GND</text>
+<text x="13.4340625" y="9.545321875" size="1.016" layer="21" rot="R270">GND</text>
 </plain>
 <libraries>
 <library name="Edison">
