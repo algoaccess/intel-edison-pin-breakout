@@ -126,9 +126,9 @@
 </layers>
 <board>
 <plain>
-<wire x1="0" y1="-5.08" x2="97.46" y2="-5.08" width="0" layer="20"/>
-<wire x1="97.46" y1="-5.08" x2="97.46" y2="93.97" width="0" layer="20"/>
-<wire x1="97.46" y1="93.97" x2="0" y2="93.97" width="0" layer="20"/>
+<wire x1="0" y1="-5.08" x2="94.92" y2="-5.08" width="0" layer="20"/>
+<wire x1="94.92" y1="-5.08" x2="94.92" y2="93.97" width="0" layer="20"/>
+<wire x1="94.92" y1="93.97" x2="0" y2="93.97" width="0" layer="20"/>
 <wire x1="0" y1="93.97" x2="0" y2="-5.08" width="0" layer="20"/>
 </plain>
 <libraries>
