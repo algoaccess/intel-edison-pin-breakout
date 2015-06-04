@@ -47,7 +47,7 @@ The zip file has been uploaded to the Releases section.
 
 ###My Fabrication Settings: 
 
-1. Layer: 1
+1. Layer: 2
 2. PCB Dimension: 10cm Max * 10cm Max
 3. PCB Thickness: 1.6mm
 4. PCB Qty: 10
