@@ -201,15 +201,12 @@
 <text x="84.5540625" y="78.468221875" size="1.016" layer="21" font="vector" rot="R270">66</text>
 <text x="87.0940625" y="78.468221875" size="1.016" layer="21" font="vector" rot="R270">68</text>
 <text x="89.6340625" y="78.468221875" size="1.016" layer="21" font="vector" rot="R270">70</text>
-<text x="3.2740625" y="71.775321875" size="1.016" layer="21" rot="R270">VSYS</text>
-<text x="5.8140625" y="71.775321875" size="1.016" layer="21" rot="R270">VSYS</text>
-<text x="8.3540625" y="71.775321875" size="1.016" layer="21" rot="R270">VSYS</text>
-<text x="10.8940625" y="71.775321875" size="1.016" layer="21" rot="R270">3.3V</text>
-<text x="13.4340625" y="71.775321875" size="1.016" layer="21" rot="R270">3.3V</text>
-<text x="15.9740625" y="71.775321875" size="1.016" layer="21" rot="R270">1.8V</text>
+<text x="3.2740625" y="71.775321875" size="1.016" layer="21" rot="R270">(3.3 to 4.5V) VSYS</text>
+<text x="10.8940625" y="71.775321875" size="1.016" layer="21" rot="R270">(out) 3.3V</text>
+<text x="15.9740625" y="71.775321875" size="1.016" layer="21" rot="R270">(out) 1.8V</text>
 <text x="18.5140625" y="71.775321875" size="1.016" layer="21" rot="R270">DCIN</text>
-<text x="21.0540625" y="71.775321875" size="1.016" layer="21" rot="R270">USB_DP</text>
-<text x="23.5940625" y="71.775321875" size="1.016" layer="21" rot="R270">USB_DN</text>
+<text x="21.0540625" y="71.775321875" size="1.016" layer="21" rot="R270">USB_DP (D+)</text>
+<text x="23.5940625" y="71.775321875" size="1.016" layer="21" rot="R270">USB_DN (D-)</text>
 <text x="26.1340625" y="71.775321875" size="1.016" layer="21" rot="R270">USB_VBUS</text>
 <text x="28.6740625" y="71.775321875" size="0.8128" layer="21" rot="R270">GP134/UART_2_RX</text>
 <text x="31.2140625" y="71.775321875" size="1.016" layer="21" rot="R270">GP44</text>
@@ -218,7 +215,7 @@
 <text x="38.8340625" y="71.775321875" size="1.016" layer="21" rot="R270">GP47</text>
 <text x="41.3740625" y="71.775321875" size="1.016" layer="21" rot="R270">GP48</text>
 <text x="43.9140625" y="71.775321875" size="1.016" layer="21" rot="R270">GP49</text>
-<text x="46.4540625" y="71.775321875" size="1.016" layer="21" rot="R270">RESET_OUT#</text>
+<text x="46.4540625" y="71.775321875" size="0.8128" layer="21" rot="R270">(active-low) RESET_OUT#</text>
 <text x="48.9940625" y="71.775321875" size="1.016" layer="21" rot="R270">NC</text>
 <text x="51.5340625" y="71.775321875" size="1.016" layer="21" rot="R270">NC</text>
 <text x="54.0740625" y="71.775321875" size="1.016" layer="21" rot="R270">GP15</text>
@@ -229,29 +226,29 @@
 <text x="66.7740625" y="71.775321875" size="1.016" layer="21" rot="R270">GP40/I2S_2_CLK</text>
 <text x="69.3140625" y="71.775321875" size="1.016" layer="21" rot="R270">GP41/I2S_2_FS</text>
 <text x="71.8540625" y="71.775321875" size="1.016" layer="21" rot="R270">GP43/I2S_2_TXD</text>
-<text x="74.3940625" y="71.775321875" size="1.016" layer="21" rot="R270">GP78_SD0_0_CLK</text>
-<text x="76.9340625" y="71.775321875" size="1.016" layer="21" rot="R270">GP77/SD0_0_CD#</text>
-<text x="79.4740625" y="71.775321875" size="1.016" layer="21" rot="R270">GP79/SD0_0_CMD</text>
-<text x="82.0140625" y="71.775321875" size="1.016" layer="21" rot="R270">GP82/SD0_0_DAT2</text>
-<text x="84.5540625" y="71.775321875" size="1.016" layer="21" rot="R270">GP80/SD0_0_DAT0</text>
-<text x="87.0940625" y="71.775321875" size="1.016" layer="21" rot="R270">GP83/SD0_0_DAT3</text>
-<text x="89.6340625" y="71.775321875" size="1.016" layer="21" rot="R270">GP81/SD0_0_DAT1</text>
+<text x="74.3940625" y="71.775321875" size="1.016" layer="21" rot="R270">GP78_SD_0_CLK</text>
+<text x="76.9340625" y="71.775321875" size="1.016" layer="21" rot="R270">GP77/SD_0_CD#</text>
+<text x="79.4740625" y="71.775321875" size="1.016" layer="21" rot="R270">GP79/SD_0_CMD</text>
+<text x="82.0140625" y="71.775321875" size="1.016" layer="21" rot="R270">GP82/SD_0_DAT2</text>
+<text x="84.5540625" y="71.775321875" size="1.016" layer="21" rot="R270">GP80/SD_0_DAT0</text>
+<text x="87.0940625" y="71.775321875" size="1.016" layer="21" rot="R270">GP83/SD_0_DAT3</text>
+<text x="89.6340625" y="71.775321875" size="1.016" layer="21" rot="R270">GP81/SD_0_DAT1</text>
 <text x="4.3459375" y="6.964678125" size="1.016" layer="21" rot="R90">GND</text>
 <text x="6.8859375" y="6.964678125" size="1.016" layer="21" rot="R90">USB_ID</text>
 <text x="9.4259375" y="6.964678125" size="1.016" layer="21" rot="R90">GND</text>
-<text x="11.9659375" y="6.964678125" size="1.016" layer="21" rot="R90">MSIC_SLP_CLK3</text>
+<text x="11.9659375" y="6.964678125" size="1.016" layer="21" rot="R90">MSIC_SLP_CLK3 (32kHz, sleep clk out)</text>
 <text x="14.5059375" y="6.964678125" size="1.016" layer="21" rot="R90">GND</text>
 <text x="17.0459375" y="6.964678125" size="1.016" layer="21" rot="R90">GND</text>
 <text x="19.5859375" y="6.964678125" size="1.016" layer="21" rot="R90">GND</text>
 <text x="22.1259375" y="6.964678125" size="1.016" layer="21" rot="R90">GND</text>
-<text x="24.6659375" y="6.964678125" size="1.016" layer="21" rot="R90">PWRBTN#</text>
+<text x="24.6659375" y="6.964678125" size="1.016" layer="21" rot="R90">PWRBTN# (btn in, active-low)</text>
 <text x="27.2059375" y="6.964678125" size="1.016" layer="21" rot="R90">FAULT</text>
 <text x="29.7459375" y="6.964678125" size="1.016" layer="21" rot="R90">PSW</text>
-<text x="32.2859375" y="6.964678125" size="1.016" layer="21" rot="R90">V_VBAT_BKP</text>
+<text x="32.2859375" y="6.964678125" size="1.016" layer="21" rot="R90">V_VBAT_BKP (RTC batt input)</text>
 <text x="34.8259375" y="6.964678125" size="1.016" layer="21" rot="R90">GP165</text>
 <text x="37.3659375" y="6.964678125" size="1.016" layer="21" rot="R90">GP135/UART_2_TX</text>
 <text x="39.9059375" y="6.964678125" size="1.016" layer="21" rot="R90">NC</text>
-<text x="42.4459375" y="6.964678125" size="1.016" layer="21" rot="R90">RCVR_MODE</text>
+<text x="42.4459375" y="6.964678125" size="1.016" layer="21" rot="R90">RCVR_MODE (firmware)</text>
 <text x="44.9859375" y="6.964678125" size="1.016" layer="21" rot="R90">GP13/PWM_1</text>
 <text x="47.5259375" y="6.964678125" size="1.016" layer="21" rot="R90">GP12/PWM_0</text>
 <text x="50.0659375" y="6.964678125" size="1.016" layer="21" rot="R90">GP182/PWM_2</text>
@@ -269,8 +266,11 @@
 <text x="80.5459375" y="6.964678125" size="1.016" layer="21" rot="R90">GP130/UART_1_RX</text>
 <text x="83.0859375" y="6.964678125" size="1.016" layer="21" rot="R90">GP129/UART_1_RTS</text>
 <text x="85.6259375" y="6.964678125" size="1.016" layer="21" rot="R90">GP128_UART_1_CTS</text>
-<text x="88.1659375" y="6.964678125" size="1.016" layer="21" rot="R90">OSC_CLK_OUT_0</text>
-<text x="90.7059375" y="6.964678125" size="1.016" layer="21" rot="R90">FW_RCVR</text>
+<text x="88.1659375" y="6.964678125" size="1.016" layer="21" rot="R90">OSC_CLK_OUT_0 (19.2MHz sleep clk out)</text>
+<text x="90.7059375" y="6.964678125" size="1.016" layer="21" rot="R90">FW_RCVR(active high on boot)</text>
+<text x="5.8140625" y="71.775321875" size="1.016" layer="21" rot="R270">(3.3 to 4.5V) VSYS</text>
+<text x="8.3540625" y="71.775321875" size="1.016" layer="21" rot="R270">(3.3 to 4.5V) VSYS</text>
+<text x="13.4340625" y="71.775321875" size="1.016" layer="21" rot="R270">(out) 3.3V</text>
 </plain>
 <libraries>
 <library name="Edison">
