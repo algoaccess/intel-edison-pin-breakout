@@ -18,11 +18,11 @@ Images are exported from Eagle at 600dpi.
 
 1) Hirose 70-pin DF40 Series Receptacle Connector. Such as the following taken from [Intel's website](http://www.intel.com/support/edison/sb/CS-035260.htm).
 
-| Hirose part number        | Stacking height | Digi-key part number                 | Mouser part number   |
-|---------------------------|-----------------|--------------------------------------|----------------------|
+| Hirose part number        | Stacking height | Digi-key part number                   | Mouser part number   |
+|---------------------------|-----------------|----------------------------------------|----------------------|
 | DF40C-70DS-0.4V(51)       | 1.5 mm          | H11631TR-ND, H11631CT-ND, H11631DKR-ND | 798-DF40C70DS04V51   |
 | DF40C(2.0)-70DS-0.4V(51)  | 2.0 mm          | H11908TR-ND, H11908CT-ND, H11908DKR-ND | 798-DF40C2070DS04V51 |
-| DF40HC(3.0)-70DS-0.4V(51) | 3.0 mm          | n/a                                  |                      |
+| DF40HC(3.0)-70DS-0.4V(51) | 3.0 mm          | n/a                                    |                      |
 
 2) 2x 35-pin through-hole pin-headers
 
@@ -57,13 +57,10 @@ The zip file has been uploaded to the Releases section.
 8. Panalized PCBs: 1
 9. Expedited Option: No
 10. PCB Stencil: checked
-11. No Fiducial
-12. 0.12mm
-13. 
-
-
-13. 37.0cm * 47.0cm
-14. Polishing
+11. Fiducial Data: No Fiducial
+12. Thickness: 0.12mm
+13. Dimension: 37.0cm * 47.0cm
+14. Polishing Techniques: Polishing
 
 ##References
 1. [Intel Edison Module Hardware guide](http://www.intel.com/support/edison/sb/CS-035274.htm)
