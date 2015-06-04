@@ -276,6 +276,11 @@ Rev 1 (June 2015)
 Algo Access Pte Ltd
 Designed by Yeo Kheng Meng
 MIT License</text>
+<text x="61.02476875" y="36.433759375" size="0.8128" layer="21">Hirose 70-pin Receptacle Header
+Stacking Height:
+1.5mm: DF40C-70DS-0.4V(51)
+2.0mm: DF40C(2.0)-70DS-0.4V(51)
+3.0mm: DF40HC(3.0)-70DS-0.4V(51)</text>
 </plain>
 <libraries>
 <library name="Edison">
