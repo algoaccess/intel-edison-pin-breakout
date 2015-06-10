@@ -20,11 +20,16 @@ Images are exported from Eagle at 600dpi.
 
 | Hirose part number        | Stacking height | Digi-key part number                   | Mouser part number   |
 |---------------------------|-----------------|----------------------------------------|----------------------|
-| DF40C-70DS-0.4V(51)       | 1.5 mm          | H11631TR-ND, H11631CT-ND, H11631DKR-ND | 798-DF40C70DS04V51   |
+| DF40C-70DS-0.4V(51)       | 1.5 mm          | H11631TR-ND, [H11631CT-ND](http://www.digikey.sg/product-detail/en/DF40C-70DS-0.4V%2851%29/H11631CT-ND/1969510), H11631DKR-ND | 798-DF40C70DS04V51   |
 | DF40C(2.0)-70DS-0.4V(51)  | 2.0 mm          | H11908TR-ND, H11908CT-ND, H11908DKR-ND | 798-DF40C2070DS04V51 |
 | DF40HC(3.0)-70DS-0.4V(51) | 3.0 mm          | n/a                                    |                      |
 
+I suggest that 1.5mm height header so the Intel Edison can be laid flat on the board without stressing the connectors between them.
+
+
 2) 2x 35-pin through-hole pin-headers
+
+I used a 36-pin header like [this](http://www.digikey.sg/product-detail/en/PBC36SAAN/S1011E-36-ND/859621) and broke away the last pin.
 
 ##PCB fabrication
 
