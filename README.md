@@ -57,7 +57,7 @@ The zip file has been uploaded to the Releases section.
 3. PCB Thickness: 1.6mm
 4. PCB Qty: 10
 5. PCB Color: Green
-6. Surface Finish: Hasl(Lead Free)
+6. Surface Finish: ENIG (due to fine pitch of the pins)
 7. Copper weight: 1oz
 8. Panalized PCBs: 1
 9. Expedited Option: No
