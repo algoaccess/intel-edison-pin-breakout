@@ -61,11 +61,6 @@ The zip file has been uploaded to the Releases section.
 7. Copper weight: 1oz
 8. Panalized PCBs: 1
 9. Expedited Option: No
-10. PCB Stencil: checked
-11. Fiducial Data: No Fiducial
-12. Thickness: 0.12mm
-13. Dimension: 37.0cm * 47.0cm
-14. Polishing Techniques: Polishing
 
 ##References
 1. [Intel Edison Module Hardware guide](http://www.intel.com/support/edison/sb/CS-035274.htm)
