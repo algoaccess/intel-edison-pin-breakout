@@ -24,7 +24,7 @@ Images are exported from Eagle at 600dpi.
 | DF40C(2.0)-70DS-0.4V(51)  | 2.0 mm          | H11908TR-ND, H11908CT-ND, H11908DKR-ND | 798-DF40C2070DS04V51 |
 | DF40HC(3.0)-70DS-0.4V(51) | 3.0 mm          | n/a                                    |                      |
 
-I suggest that 1.5mm height header so the Intel Edison can be laid flat on the board without stressing the connectors between them.
+I suggest the 1.5mm height header so the Intel Edison can be laid flat on the board without stressing the connectors between them.
 
 
 2) 2x 35-pin through-hole pin-headers
