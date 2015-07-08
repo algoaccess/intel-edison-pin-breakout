@@ -14,7 +14,8 @@ This has the 1.5mm Hirose connector which I hand soldered.
 
 ![Screen](images/front-side.jpg)
 
-The smallest I can make this board to still allow the function of each pin to be silkscreened.                                                                                                                     
+The smallest I can make this board to still allow the function of each pin to be silkscreened.
+
 ![Screen](images/back-side.jpg)
 
 2-layer board so you can solder your pin headers on top or below the board.
