@@ -6,13 +6,25 @@ Pin breakout of the Intel Edison Hirose connector to through-hole pin headers fo
 1. Eagle 7.3.0: I use Standard but Light should still be able to open/modify the files.
 2. Intel Edison library by [Sparkfun](https://github.com/sparkfun/Sparkfun_Blocks_Template) (in repo as Edison.lbr)
 
-##Schematic drawings
+##Images
 
+![Screen](images/front-soldered.jpg)
+
+This has the 1.5mm Hirose connector which I hand soldered.
+
+![Screen](images/front-side.jpg)
+
+The smallest I can make this board to still allow the function of each pin to be silkscreened.                                                                                                                     
+![Screen](images/back-side.jpg)
+
+2-layer board so you can solder your pin headers on top or below the board.
+
+##Schematic drawings
 Images are exported from Eagle at 600dpi.
 
-![Screen](images/schematic.png)
-
 ![Screen](images/board.png)
+
+![Screen](images/schematic.png)
 
 ##Parts required
 
